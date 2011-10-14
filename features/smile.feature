@@ -1,4 +1,4 @@
-Feature: Cucumber Webrat Integratio
+Feature: Cucumber Webrat Integration
 
 Scenario: Illustrate Webrat Problem
 When I go to "http://smile.co.uk"
